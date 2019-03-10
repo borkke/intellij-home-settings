@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="SpringBoot Automatic Restart">
+      <action id="SaveAll" />
+      <action id="CompileDirty" />
+    </macro>
+  </component>
+</application>
